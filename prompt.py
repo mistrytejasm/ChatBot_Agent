@@ -108,5 +108,3 @@ User: {query}
 AI (Chain-of-Thought):
 
 """
-
-
